@@ -49,19 +49,19 @@ AZURE_LOCATION=your-resource-location
 node app.js
 ```
 
-The server will run at `http://localhost:3000`.
+The server will run at `http://104.248.227.148:3000`.
 
 ## API Documentation
 
 ### Endpoint
 
-#### POST `/azure-api`
+#### POST `104.248.227.148:3000/azure-api`
 
 - **Request Body**:
 
 ```json
 {
-  "text": "Your text here",
+  "text": "Your_text_here",
   "from_language": "en",
   "to_translate": "fr,hi"
 }
@@ -91,7 +91,7 @@ The server will run at `http://localhost:3000`.
 ## Testing the API
 
 1. Use [Postman](https://www.postman.com/) or any API client.
-2. Create a POST request to `http://localhost:3000/azure-api`.
+2. Create a POST request to `http://104.248.227.148:3000/azure-api`.
 3. Set the request body as described above.
 
 ## Screenshots and Visuals
