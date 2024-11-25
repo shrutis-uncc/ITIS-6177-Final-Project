@@ -1,4 +1,4 @@
-//URL - http://localhost:3000/azure-api?text=Hi+this+is+my+final+project&to_translate=fr,zu,hi
+//URL - http://104.248.227.148:3000/azure-api?text=Hi+this+is+my+final+project&to_translate=fr,zu,hi
 const express = require("express");
 const axios = require("axios");
 require("dotenv").config();
@@ -70,5 +70,5 @@ app.post("/azure-api", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+  console.log(`Server running at http://104.248.227.148:${PORT}`);
 });
