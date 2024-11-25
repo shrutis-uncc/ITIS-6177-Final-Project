@@ -23,7 +23,7 @@ Welcome to the Azure Translator API Node.js Integration repository! This project
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/azure-translator-integration.git
+git clone [https://github.com/your-username/azure-translator-integration.git](https://github.com/shrutis-uncc/ITIS-6177-Final-Project.git)
 cd azure-translator-integration
 ```
 
@@ -61,7 +61,7 @@ The server will run at `http://104.248.227.148:3000`.
 
 ```json
 {
-  "text": "Your_text_here",
+  "text": "your_text_here",
   "from_language": "en",
   "to_translate": "fr,hi"
 }
