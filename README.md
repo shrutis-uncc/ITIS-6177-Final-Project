@@ -96,7 +96,8 @@ The server will run at `http://104.248.227.148:3000`.
 
 ## Screenshots and Visuals
 
--- screenshots
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/5af53e64-fa40-43f4-86a5-705f12d39b89">
+
 
 ## Contributing
 
