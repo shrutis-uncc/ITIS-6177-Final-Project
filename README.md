@@ -23,7 +23,7 @@ Welcome to the Azure Translator API Node.js Integration repository! This project
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/azure-translator-integration.git](https://github.com/shrutis-uncc/ITIS-6177-Final-Project.git)
+git clone https://github.com/shrutis-uncc/ITIS-6177-Final-Project.git
 cd azure-translator-integration
 ```
 
