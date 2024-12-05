@@ -46,7 +46,7 @@ AZURE_LOCATION=your-resource-location
 ### 4. Run the Application
 
 ```bash
-node app.js
+node index.js
 ```
 
 The server will run at `http://104.248.227.148:3000`.
